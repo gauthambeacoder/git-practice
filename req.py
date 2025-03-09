@@ -1,4 +1,5 @@
 def sub(val1,val2):
     return val1-val2
 
-sub(10,20)
+
+print(sub(10,20))
